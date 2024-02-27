@@ -1,3 +1,3 @@
 # osm-website
-<h3>https://osm-website.netlify.app</h3>
+<h3>https://osmcode05.github.io/osm-website</h3>
 <img src="preview.jpeg">
